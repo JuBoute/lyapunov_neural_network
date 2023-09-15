@@ -1,5 +1,5 @@
 # lyapunov_neural_network
-Contain all the relevant code (in python 3) for the paper Differentiating similar networks with dynamical system tools
+Contain all the relevant code (in python 3) for the paper "Dynamical properties of self-sustained and driven neural networks"
 All the necessary libraries are imported at the begining of each files.
 
 ## Simulating the networks
