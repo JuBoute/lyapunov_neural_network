@@ -13,7 +13,7 @@ The difference lies in the choice of parameters, and in a change in the "externa
 It is also important to note that not all seeds will lead to self-sustained activity in the self-sustained file. Some suggestions are given, but there would need to repeat simulations for various seeds to fine more (to do so, a simulation time of 20s is not necessary, do not hesitate to change "TotTime")
 
 
-## Record o fthe simulation
+## Record of the simulation
 We recorded two driven simulations with different seeds to show the difference, and one self-sustained. They are respectively in [Simulation_Adex_1](/Simulation_Adex_1) and [Simulation_Adex_2](/Simulation_Adex_2) for the driven networks, and [Simulation_Adex_sustained_1](/Simulation_Adex_sustained_1) for the self-sustained.
 As said previously, those files contain the average firing rates and adaptation through time, and can be open with pickle. 
 
